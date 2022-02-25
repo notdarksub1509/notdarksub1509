@@ -7,7 +7,6 @@ tasks:
 vscode:
   extensions:
     - dbaeumer.vscode-eslint
-    - miguelsolorio.fluent-icons
     - equinusocio.vsc-material-theme-icons
     - Equinusocio.vsc-material-theme
     - GitHub.vscode-pull-request-github
