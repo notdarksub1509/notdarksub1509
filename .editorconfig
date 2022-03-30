@@ -5,6 +5,15 @@ charset = utf-8
 end_of_line = lf
 insert_final_newline = true
 trim_trailing_whitespace = true
-indent_size = 4
+tab_width = 4
+
+[*.{js,ts,mjs,cjs}]
 indent_style = tab
-tab_size = 4
+indent_size = 4
+
+[*.{json,yml,yaml}]
+indent_style = space
+indent_size = 2
+
+[*.{md,markdown}]
+indent_style = tab
