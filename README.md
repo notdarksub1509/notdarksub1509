@@ -3,7 +3,7 @@ Sup People ✌️
 
 The name DarkSub | NoneTheLess, also you can call me Nikita
 
-I'm a gamer, also an artist and coder
+I'm a gamer, also an coder
 
 Currently experimenting with JavaScript and TypeScript stuff
 
