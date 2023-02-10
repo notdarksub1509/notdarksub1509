@@ -1,11 +1,9 @@
 Sup People ✌️
 =======
 
-The name DarkSub | NoneTheLess, also you can call me Nikita
+The name DarkSub | NoneTheLess
 
-I'm a gamer, also an coder
-
-Currently experimenting with JavaScript and TypeScript stuff
+"Self explanation here."
 
 Languages: English, Vietnamese
 
